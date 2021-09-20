@@ -27,7 +27,7 @@ function setup(){
     box5= new Box(800,130,50,70);
    
     ground1= new ground(600,350,1200,20);
-    plataform=new ground(150,305,300,170);
+    plataform=new ground(150,305,300,170);//plataform
    
     puerquito=new pig(820,200);
     puerquito1=new pig(820,300);
